@@ -1,4 +1,4 @@
-## 👋 Hi there, I’m Falak Rastogi!
+# 👋 Hi there, I’m Falak Rastogi!
 
 ## 🤩 About me 
 👩🏻‍💻 I’m currently working on building AI based web experiences\
@@ -36,6 +36,18 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=FalakR&theme=gotham&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=FalakR&theme=gotham&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=FalakR&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=FalakR&theme=gitdimmed&no-frame=false&no-bg=false&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=FalakR&icon=0&color=3)](https://visitcount.itsvg.in)
+
 
 <!---
 FalakR/FalakR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
