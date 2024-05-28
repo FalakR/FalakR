@@ -6,12 +6,12 @@
 📫 How to reach me **falakrast1@gmail.com**\
 ⚡ Fun fact: Sky diving is on top of my bucket list 😁
 
-## Connect with me:
+## 💫 Connect with me:
 <p align="left">
 <a href="https://www.linkedin.com/in/falak-rastogi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="falak-rastogi" height="30" width="40" /></a>
 </p>
 
-## Tech Stack
+## 💻 Tech Stack
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
