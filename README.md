@@ -2,7 +2,7 @@
 
 ## 🤩 About me 
 👩🏻‍💻 I’m currently working on building AI based web experiences\
-💬 Ask me about Java, Python, NodeJS and AWS\
+💬 Ask me about C, Java, Python, NodeJS and AWS or my favourite topic Artificial Intelligence 🤩\
 📫 How to reach me **falakrast1@gmail.com**\
 ⚡ Fun fact: Sky diving is on top of my bucket list 😁
 
